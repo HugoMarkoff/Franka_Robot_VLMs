@@ -1,0 +1,5 @@
+transformers==4.49.0
+Pillow==11.1.0
+numpy<2
+langchain-community==0.3.17
+accelerate>=0.26.0
